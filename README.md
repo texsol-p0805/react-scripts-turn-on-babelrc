@@ -1,5 +1,8 @@
 # react-scripts
 
+## In react-scripts, made it possible to use babelrc
+
+
 This package includes scripts and configuration used by [Create React App](https://github.com/facebookincubator/create-react-app).<br>
 Please refer to its documentation:
 
